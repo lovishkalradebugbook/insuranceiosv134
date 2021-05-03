@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Debugbook\Downloads\flyweb-134\codecanyon-26840230-flyweb-for-web-to-app-convertor-flutter-admin-panel-v10\Source File V_1.3\FlyWeb_Flutter\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:57
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Debugbook\Downloads\flyweb-134\codecanyon-26840230-flyweb-for-web-to-app-convertor-flutter-admin-panel-v10\Source File V_1.3\FlyWeb_Flutter\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:57
+-keep class io.flutter.app.FlutterApplication { <init>(); }
